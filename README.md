@@ -135,18 +135,10 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ## Deployment
 
-**Frontend** → Vercel  
-**Backend** → Render
+**Frontend** → Vercel: https://eld-trip-planner-azure.vercel.app  
+**Backend** → Render: https://eld-trip-planner-8ye2.onrender.com
 
-See [DEPLOYMENT.md](./DEPLOYMENT.md) for step-by-step hosting instructions.
 
----
-
-## Screenshots
-
-> Add screenshots here after deploy
-
----
 
 ## License
 
