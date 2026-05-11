@@ -1,0 +1,6 @@
+This is a Full Stack ELD Trip Planner app.
+Backend: Django + DRF
+Frontend: React + Vite + MUI + Leaflet
+HOS Rules: 70hr/8day cycle, 11hr drive limit, 14hr window, 10hr reset, 30min break after 8hrs driving
+ELD logs rendered as SVG in React
+Always write complete runnable code, no placeholders
