@@ -7,7 +7,9 @@ import TextField from '@mui/material/TextField'
 import Typography from '@mui/material/Typography'
 import Alert from '@mui/material/Alert'
 
-const API_URL = 'http://localhost:8000/api/plan-trip/'
+const API_URL = import.meta.env.VITE_API_URL
+? `${import.meta.env.VITE_API_URL}/api/plan-trip/`
+: 'http://localhost:8000/api/plan-trip/'
 
 export default function TripForm({ onResult, onError, onSubmitStart }) {
   const [currentLocation, setCurrentLocation] = useState('')
