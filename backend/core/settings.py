@@ -136,4 +136,5 @@ REST_FRAMEWORK = {
 # Frontend dev server (Vite)
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://eld-trip-planner-azure.vercel.app",
 ]
