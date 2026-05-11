@@ -2,7 +2,7 @@
 
 A full-stack web app that helps truck drivers plan trips in compliance with FMCSA Hours of Service (HOS) regulations. Enter your current location, pickup, dropoff, and cycle hours used — get a route map and auto-generated ELD daily log sheets back.
 
-**Live Demo:** [your-app.vercel.app](https://your-app.vercel.app) <!-- Update after Vercel deploy -->
+**Live Demo:** https://eld-trip-planner-azure.vercel.app/
 
 ---
 
